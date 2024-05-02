@@ -1,0 +1,144 @@
+{
+    "AdditionalClothingTops": {
+        "66315123e461ffc3eb9f8501": {
+            "NewOutfitID": "66315123e461ffc3eb9f8501",
+            "BundlePath": "AdditionalTops/top_tshirt_black.bundle",
+            "HandsToClone": "5d1f5aa286f7744bca3f0b9c",
+            "HandsBundlePath": "assets/content/hands/hands_tshirt_bear_black/hands_tshirt_bear_black.skin.bundle",
+            "LocaleName": "Black t-shirt",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 59999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        },
+        "66315140269de9d8b5cc21bf": {
+            "NewOutfitID": "66315140269de9d8b5cc21bf",
+            "BundlePath": "AdditionalTops/top_fsbfastresponse_alt.bundle",
+            "HandsToClone": "5d1f5ab286f7743f8362bcdd",
+            "HandsBundlePath": "AdditionalHands/hands_fsbfastresponse_alt2.bundle",
+            "LocaleName": "FSB Fast Response (Alt. 1)",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 59999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        },
+        "6631523ed87c09f50faf5350": {
+            "NewOutfitID": "6631523ed87c09f50faf5350",
+            "BundlePath": "AdditionalTops/top_fsbfastresponse_alt2.bundle",
+            "HandsToClone": "5d1f5ab286f7743f8362bcdd",
+            "HandsBundlePath": "AdditionalHands/hands_fsbfastresponse_alt.bundle",
+            "LocaleName": "FSB Fast Response (Alt. 2)",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 59999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        },
+        "6631529a84f43d4887fa707b": {
+            "NewOutfitID": "6631529a84f43d4887fa707b",
+            "BundlePath": "AdditionalTops/top_tier2_alt1.bundle",
+            "HandsToClone": "5e4bb1fe86f774069342dec8",
+            "HandsBundlePath": "AdditionalHands/hands_tier2_alt1.bundle",
+            "LocaleName": "TIER2 (Alt. 1)",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 59999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        },
+        "663152a2b1f3b96abbaf9f61": {
+            "NewOutfitID": "663152a2b1f3b96abbaf9f61",
+            "BundlePath": "AdditionalTops/top_tier2_alt2.bundle",
+            "HandsToClone": "5e4bb1fe86f774069342dec8",
+            "HandsBundlePath": "AdditionalHands/hands_tier2_alt2.bundle",
+            "LocaleName": "TIER2 (Alt. 2)",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 59999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        },
+        "66315305601911d2eeb6b95b": {
+            "NewOutfitID": "66315305601911d2eeb6b95b",
+            "BundlePath": "AdditionalTops/top_sumrak_white.bundle",
+            "HandsToClone": "618aeee10a5a59657e5f55ed",
+            "HandsBundlePath": "AdditionalHands/hands_sumrak_white.bundle",
+            "LocaleName": "BEAR VOIN",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 59999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        }
+    },
+    "AdditionalClothingBottoms": {
+        "663153b9d9bcb446670f964c": {
+            "NewBottomsID": "663153b9d9bcb446670f964c",
+            "BundlePath": "AdditionalBottoms/bottom_urbanresponder_ucp.bundle",
+            "LocaleName": "USEC Adaptive Combat",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 34999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        },
+        "663153c182a2df4a501a32e5": {
+            "NewBottomsID": "663153c182a2df4a501a32e5",
+            "BundlePath": "AdditionalBottoms/bottom_triarius_borey.bundle",
+            "LocaleName": "BEAR Boreas",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 34999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        },
+        "663153c77d84286fc6b380e5": {
+            "NewBottomsID": "663153c77d84286fc6b380e5",
+            "BundlePath": "AdditionalBottoms/bottom_gen2_multicam.bundle",
+            "LocaleName": "GEN.2 Khyber (Multicam)",
+            "TraderScheme": {
+                "AddToTrader": true,
+                "TraderToUse": "5a7c2eca46aef81a7ca2145d",
+                "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+                "Cost": 34999,
+                "LoyaltyLevel": 1,
+                "TraderStandingRequirement": 0,
+                "ProfileLevelRequirement": 1
+            }
+        }
+    }
+}

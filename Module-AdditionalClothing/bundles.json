@@ -1,0 +1,111 @@
+{
+    "manifest": [
+		{
+            "key": "AdditionalTops/top_fsbfastresponse_alt.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalTops/top_fsbfastresponse_alt2.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalHands/hands_fsbfastresponse_alt.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"assets/content/hands/bear/bear_hands_watch_texture.bundles"
+			]
+        },
+		{
+            "key": "AdditionalHands/hands_fsbfastresponse_alt2.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"assets/content/hands/bear/bear_hands_watch_texture.bundles"
+			]
+        },
+		{
+            "key": "AdditionalBottoms/bottom_urbanresponder_ucp.bundle",
+            "dependencyKeys": [
+				"cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalTops/top_tier2_alt1.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalTops/top_tier2_alt2.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalHands/hands_tier2_alt1.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/content/hands/usec/materials/watch_usec_textures",
+				"assets/content/hands/bear/bear_watch.bundle"
+			]
+        },
+		{
+            "key": "AdditionalHands/hands_tier2_alt2.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/content/hands/usec/materials/watch_usec_textures",
+				"assets/content/hands/bear/bear_watch.bundle"
+			]
+        },
+		{
+            "key": "AdditionalBottoms/bottom_triarius_borey.bundle",
+            "dependencyKeys": [
+				"cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalTops/top_tshirt_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalBottoms/bottom_gen2_multicam.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalTops/top_sumrak_white.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AdditionalHands/hands_sumrak_white.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/content/hands/bear/bear_watch.bundle"
+			]
+        }
+    ]
+}
