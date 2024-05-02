@@ -6,7 +6,7 @@ import { DatabaseServer }       from "@spt-aki/servers/DatabaseServer";
 import { JsonUtil }             from "@spt-aki/utils/JsonUtil";
 import { API }                  from "../../DJCore/src/api";
 
-import * as moduleItems         from "../ModuleItems/Clothing.json";
+import * as moduleClothingItems from "../ModuleItems/Clothing.json";
 
 const fs = require('fs');
 const modName = "Additional Clothing Module";
@@ -34,16 +34,16 @@ class ModuleClothing implements IPostDBLoadMod
 
 		const coreAPI = container.resolve<API>("API");
 
-        for (const topID in moduleItems.AdditionalClothingTops)
+        for (const topID in moduleClothingItems.AdditionalClothingTops)
         {
-            const topConfig = moduleItems.AdditionalClothingTops[topID]
+            const topConfig = moduleClothingItems.AdditionalClothingTops[topID]
 
             coreAPI.createClothingTop(topConfig, tables, jsonUtil);
         }
 
-        for (const bottomID in moduleItems.AdditionalClothingBottoms)
+        for (const bottomID in moduleClothingItems.AdditionalClothingBottoms)
         {
-            const bottomConfig = moduleItems.AdditionalClothingBottoms[bottomID]
+            const bottomConfig = moduleClothingItems.AdditionalClothingBottoms[bottomID]
 
             coreAPI.createClothingBottom(bottomConfig, tables, jsonUtil);
         }
@@ -55,15 +55,15 @@ class ModuleClothing implements IPostDBLoadMod
     {
         logger.log(
             `[DJCore] ----------------------------------------------------------------`,
-            LogTextColor.CYAN
+            LogTextColor.MAGENTA
         );
         logger.log(
             `[DJCore]               ${modName} Loaded`,
-            LogTextColor.CYAN
+            LogTextColor.MAGENTA
         );
         logger.log(
             `[DJCore] ----------------------------------------------------------------`,
-            LogTextColor.CYAN
+            LogTextColor.MAGENTA
         );
     }
 }
